@@ -1,0 +1,312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"padding"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"video",
+				"video_type"
+			],
+			[
+				"embed",
+				"embed_link"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/server.php",
+			"settings":
+			{
+				"buffer_size": 560,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"last_filter": "Package Control",
+		"selected_items":
+		[
+			[
+				"Package Control",
+				"Package Control: Add Repository"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"https://github.com/Medalink/laravel-blade.git",
+			"http://wbond.net/sublime_packages/package_control/installation",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/MarcetMe/app/Commands/Command.sublime-project",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/routes.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/UserController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/register.blade.php",
+		"/var/www/html/phpfreechat-1.7/demo/demo1_simple.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/login/login.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Models/GeneralMessage.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/admin/BlogController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/admin/GeneralMessageController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/includes/left-menu.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/generalMessage/general_message_edit.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/layouts/footerArticle.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/layouts/sideBar.blade.php",
+		"/home/koushikdutta/git/testing/index.php",
+		"/home/koushikdutta/git/testing/app/Http/Controllers/TestGitController.php",
+		"/home/koushikdutta/git/testing/app/Http/Controllers/WelcomeController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Models/Category.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/layouts/sideBarArticle.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Providers/CommonServiceProvider.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/advanceSearch.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/business.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/businessByCategory.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/businessSuccess.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/businessView.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/cmsView.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/contactUs.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/dashboard.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/editBlog.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/editBusiness.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/editUser.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/home.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/manageBlog.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/registerEmail.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/searchBusiness.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/userDashboard.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/welcome.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/cms.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/article_details.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/addBlog.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/layouts/app.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/layouts/default.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/layouts/footerEditBusiness.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/layouts/footerBlog.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/blog_details.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/ArticleController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/BlogController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/HomeController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/newproject/marcetme/resources/views/layouts/sideBar.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/index.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/public/js/ajaxApp.js",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/article_list.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/layouts/footer.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/layouts/registerApp.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/blog_list.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/article/article_add.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/newproject/marcetme/resources/views/addBlog.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/blog/blog_add.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/blog/blog_edit.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/admin/ArticleController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/newproject/marcetme/resources/views/layouts/registerApp.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/article/article_edit.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/success/success_add.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/success/success_edit.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/newproject/marcetme/resources/views/article_details.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/newproject/marcetme/resources/views/blog_list.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/newproject/marcetme/resources/views/article_list.blade.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"register",
+			"user-register",
+			"article_section",
+			"imageDiv",
+			"tarea",
+			"latestarticle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/server.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Command.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
